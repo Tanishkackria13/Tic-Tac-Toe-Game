@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-
 }
 h1{
     /* background-color: #84f753b0; */
@@ -65,6 +64,8 @@ body{
 #msg{
     color: #e90e15;
     font-size: 8vmin;
+    
+    background: #112245;
 }
 .msg-container{
     height: 100vh;
